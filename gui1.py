@@ -8,7 +8,7 @@ win.geometry("850x350")
 
 
 def callback():
-   Label(win, text="Hello World 2", font=('Century 20 bold')).pack(pady=4)
+   Label(win, text="Hello universe 2", font=('Century 20 bold')).pack(pady=4)
 
 #Create a Label and a Button widget
 btn=Button(win, text="Press Enter", command= callback)
